@@ -1,0 +1,15 @@
+{
+  "budget": 1,
+  "branch": 4,
+  "dup_error_code": "E_DUP_KEY",
+  "key_error_code": "E_BAD_KEY",
+  "event_error_code": "E_BAD_EVENT",
+  "state": { "blocks": [], "keys": [], "splits": 0, "ledger": [], "applied": [] },
+  "events": [
+    { "id": 1, "kind": "insert", "key": 5 },
+    { "id": 2, "kind": "insert", "key": 3 },
+    { "id": 3, "kind": "insert", "key": 7 },
+    { "id": 4, "kind": "insert", "key": 1 },
+    { "id": 5, "kind": "insert", "key": 9 }
+  ]
+}
